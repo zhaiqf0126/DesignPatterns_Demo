@@ -1,0 +1,14 @@
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignMethod.dll
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignMethod.pdb
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+E:\VS2019\设计模式\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CopyComplete
